@@ -1,6 +1,26 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+title: Home
+permalink: /
 ---
+
+## Home
+
+轻松点点点 成语不再难  
+囊括中学普华必考 115 条  
+快捷课程华文必考 135 条  
+高级华文全部必考 250 条
+
+学练结合 随意搜索  
+设定时限 避免拖延  
+分段练习 汇总复习  
+及时反馈 激励挑战  
+得分记录 了解进展  
+加练错题 下药对症  
+英文意思 激起兴趣  
+中文意思 加深理解  
+选词填空 掌握用法  
+多种题型 全面操练  
+一机在手 反复练习  
+轻轻松松 搞定成语
+
+[Privacy Policy](/privacy-policy)
