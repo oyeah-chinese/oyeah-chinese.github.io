@@ -22,10 +22,11 @@ title: 中学必考成语轻松练
 description: 玩游戏 学成语
 github: "false"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://oyeah-chinese.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://oyeah-chinese.github.io"
+
 
 # Build settings
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
 # plugins:
 #   - jekyll-feed
 # Exclude from processing.

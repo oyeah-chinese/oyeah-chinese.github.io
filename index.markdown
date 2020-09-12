@@ -23,4 +23,5 @@ permalink: /
 一机在手 反复练习  
 轻轻松松 搞定成语
 
-[Privacy Policy](/privacy-policy)
+[Privacy Policy](/privacy-policy)  
+[Contact Us](/contact)
